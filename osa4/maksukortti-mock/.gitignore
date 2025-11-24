@@ -1,0 +1,15 @@
+#virtual environments
+.venv/
+
+#for practice im also including good practices(?)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#pytest cache
+.pytest_cache/
+
+#ide and editor files
+.vscode/
+.idea/
